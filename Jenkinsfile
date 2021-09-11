@@ -16,6 +16,7 @@ pipeline {
             steps {
                 echo 'Deploying....'
 		echo 'William stuff..'
+		echo 'William stuff..'
             }
         }
     }
