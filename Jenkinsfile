@@ -17,6 +17,7 @@ pipeline {
                 echo 'Deploying....'
 		echo 'William stuff..'
 		echo 'William stuff..'
+		echo 'William stuff...'
             }
         }
     }
