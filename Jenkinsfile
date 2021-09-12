@@ -21,8 +21,6 @@ pipeline {
 		echo 'William stuff....'
 		echo 'William stuff.....'
 		echo 'William stuff.....'
-		echo 'William stuff.....'
-		echo 'William stuff.....'
             }
         }
     }
