@@ -15,7 +15,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
-		echo 'From New_branch'
+		echo 'develop branch'
             }
         }
     }
